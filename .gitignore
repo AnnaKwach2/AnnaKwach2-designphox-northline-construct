@@ -1,0 +1,11 @@
+.pnpm-store/
+.next/
+dist/
+next-env.d.ts
+.vercel/
+.sites-hosting/node_modules/
+.sites-hosting/dist/
+.sites-hosting/.vinext/
+.sites-hosting/.wrangler/
+.sites-hosting/*.tar.gz
+
