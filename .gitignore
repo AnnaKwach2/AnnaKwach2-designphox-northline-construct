@@ -8,4 +8,3 @@ next-env.d.ts
 .sites-hosting/.vinext/
 .sites-hosting/.wrangler/
 .sites-hosting/*.tar.gz
-

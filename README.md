@@ -1,4 +1,4 @@
-# Northline Construct â€” static prototype
+# Northline Construct — static prototype
 
 Open `index.html` directly in a browser. No build step or runtime is required.
 
@@ -33,4 +33,3 @@ Use Organization/LocalBusiness data once, with verified legal name, address, ser
 ## Security and performance handoff
 
 Configure HTTPS, HSTS, CSP, `X-Content-Type-Options`, `Referrer-Policy`, backups, least-privilege roles, updates and a reputable WordPress security layer at hosting level. Self-host fonts or use the system stack already configured. Cache static assets and optimize the hero image aggressively while keeping it eager-loaded.
-
