@@ -61,8 +61,8 @@ html{overflow-x:clip}
 
 /* Readability pass for laptop and desktop viewports */
 body{font-size:17px;line-height:1.7}
-.hero h1{font-size:clamp(4.5rem,7.15vw,7.15rem);line-height:.91;max-width:1280px;margin-bottom:2rem}
-.hero h1 em{font-size:.88em;line-height:1}
+.hero h1{font-size:clamp(4.15rem,5.35vw,5.55rem);line-height:.93;max-width:1050px;margin-bottom:2rem}
+.hero h1 em{font-size:.8em;line-height:1.04}
 .site-nav{font-size:.95rem}
 .eyebrow{font-size:.78rem;line-height:1.4}
 .text-link{font-size:.9rem;line-height:1.4}
@@ -75,9 +75,9 @@ body{font-size:17px;line-height:1.7}
 .page-hero p{font-size:1.18rem}.crumbs{font-size:.78rem}.card p{font-size:1rem}.notice{font-size:.86rem}
 .footer-grid a,.footer-grid p{font-size:.94rem}.footer-grid h2{font-size:.75rem}.demo-note{font-size:.9rem}.footer-base{font-size:.76rem}.footer-help{font-size:.74rem}
 .article-list article p{font-size:1rem}.article-list .eyebrow{font-size:.78rem}
-@media(max-width:1100px){.hero h1{font-size:clamp(4.25rem,7.4vw,5.4rem);max-width:900px}}
-@media(max-width:850px){body{font-size:16px}.hero h1{font-size:clamp(3.8rem,11.5vw,5rem);line-height:.94;max-width:760px}.site-nav{font-size:1rem}.hero-copy{font-size:1.08rem}.service-row h3{font-size:1.55rem}.service-row p{font-size:.94rem}.accordion summary{font-size:1.2rem}.footer-grid a,.footer-grid p{font-size:.9rem}}
-@media(max-width:540px){.hero h1{font-size:clamp(3.25rem,14vw,4.35rem);line-height:.96}.hero h1 em{font-size:.84em}}
+@media(max-width:1100px){.hero h1{font-size:clamp(3.9rem,6.6vw,4.55rem);max-width:780px}}
+@media(max-width:850px){body{font-size:16px}.hero h1{font-size:clamp(3.45rem,10vw,4.25rem);line-height:.96;max-width:680px}.site-nav{font-size:1rem}.hero-copy{font-size:1.08rem}.service-row h3{font-size:1.55rem}.service-row p{font-size:.94rem}.accordion summary{font-size:1.2rem}.footer-grid a,.footer-grid p{font-size:.9rem}}
+@media(max-width:540px){.hero h1{font-size:clamp(2.9rem,12.2vw,3.75rem);line-height:.98}.hero h1 em{font-size:.8em}}
 
 /* Stronger brand signature and reference-matched social icons */
 .brand{font-size:1.14rem;gap:.85rem}.brand-mark{font-size:2.15rem}.brand small{font-size:.61rem}
