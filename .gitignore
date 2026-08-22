@@ -3,6 +3,7 @@
 dist/
 next-env.d.ts
 .vercel/
+.vercel-stage/
 .sites-hosting/node_modules/
 .sites-hosting/dist/
 .sites-hosting/.vinext/
